@@ -43,7 +43,8 @@ Recuperando arquivo
 
 1° apagando o arquivo da maquina
 
-<apagando a pasta>
+![image](https://github.com/Kinho337/Paan-Marcos-Michel-e-Pedro/assets/150250683/e99070d3-b0cd-4293-98be-d3cf00462a0f)
+
 
 2° trazendo o arquivo de volta via GitBash
 
