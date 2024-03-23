@@ -30,6 +30,9 @@ namespace app
                 Console.WriteLine("Somando " + num1 + " com " + num2 + " o resultado será: " + total);
                 Console.ReadKey();
 
+                Console.Write("É isso, obrigado :)")
+                Console.Write("Feito por Marcos, Michel e Pedro" )
+
 
 
             }
