@@ -48,7 +48,8 @@ Recuperando arquivo
 
 2° trazendo o arquivo de volta via GitBash
 
-<recuperando o arquivo>
+![image](https://github.com/Kinho337/Paan-Marcos-Michel-e-Pedro/assets/150250683/66bc452a-25b7-422b-9490-1f4545372e38)
+
 
 3° apagando do github e recuperando pela maquina
 
