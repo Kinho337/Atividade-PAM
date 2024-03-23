@@ -1,4 +1,4 @@
-Repositório para salvar as atividades (passo a passo)
+<h2><b>Repositório para salvar as atividades (passo a passo)</b><h2/>
 
 1° abrir a pasta pelo GitBash
 
@@ -35,12 +35,11 @@ Repositório para salvar as atividades (passo a passo)
 
 ![image](https://github.com/Kinho337/Paan-Marcos-Michel-e-Pedro/assets/150250683/bba31471-b519-4714-b653-6f4adc411dbb)
 
+<h1><b>ARQUIVO SALVO</b></h1>
 
-Arquivo salvo.
+<br>
 
-Recuperando arquivo 
-
-
+<h1><b>RECUPERANDO ARQUIVO</b></h1>
 1° apagando o arquivo da maquina
 
 ![image](https://github.com/Kinho337/Paan-Marcos-Michel-e-Pedro/assets/150250683/e99070d3-b0cd-4293-98be-d3cf00462a0f)
